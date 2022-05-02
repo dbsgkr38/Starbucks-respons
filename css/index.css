@@ -1833,7 +1833,6 @@ footer .inner .logo{
 }
 
 @media all and (min-width: 768px){
-    body{background: #0FCA5D;}
 
     #menu {
         width: 720px;
@@ -2368,6 +2367,10 @@ footer .inner .logo{
 
     }
 
+    .pick-your-favorite .text-group .fav_img{
+        display: none;
+    }
+
     .pick-your-favorite .text-group  .text{
         display: block;
         position: absolute;
@@ -2506,7 +2509,6 @@ footer .inner .logo{
 }
 
 @media all and (min-width: 1200px){
-    body{background: #E95A87;}
     
     /* menu */
 
