@@ -1316,7 +1316,9 @@ header nav ul.main-menu li.item .item__contents .contents__texture p{
     right: 38%;
 }
 
-
+.pick-your-favorite p{
+    display: none;
+}
 
 /* .pick-your-favorite .text-group .fav_img{
     background-image: url(../imges/main/2022_Spring_pick_img.png);
@@ -2355,7 +2357,7 @@ footer .inner .logo{
 
     .pick-your-favorite .inner img{
         position: absolute;
-        top: 30px;
+        top: 150px;
         left: 480px;
         width: 500px;
     }
@@ -2368,7 +2370,7 @@ footer .inner .logo{
     }
 
     .pick-your-favorite .text-group .fav_img{
-        display: none;
+        display:block;
     }
 
     .pick-your-favorite .text-group  .text{
