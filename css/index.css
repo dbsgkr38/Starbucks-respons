@@ -1450,7 +1450,7 @@ header nav ul.main-menu li.item .item__contents .contents__texture p{
 .find-store .inner .text-group{
     position: absolute;
     top: 420px;
-    left: 30px;
+
 }
 
 .find-store .inner .text-group .more{
@@ -1468,14 +1468,16 @@ header nav ul.main-menu li.item .item__contents .contents__texture p{
     margin-top: 25px;
 }
 
-.find-store .inner .text-group .title,
-.find-store .inner .text-group .description{
+.find-store .inner .texture1 .title,
+.find-store .inner .texture1 .description,
+.find-store .inner .texture1 .more
+{
     display: none;
 }
 
 .find-store .inner .text-group .title2,
 .find-store .inner .text-group .description2{
-    width: 400px;
+    margin-left: 80px;
 }
 
 
